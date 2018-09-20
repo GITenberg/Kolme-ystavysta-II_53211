@@ -1,10 +1,13 @@
 _repo: Kolme-ystavysta-II_53211
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Helve, Anton
     gutenberg_agent_id: '47267'
     url: http://www.gutenberg.org/2009/agents/47267
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: Translation of part 2 of "Трое".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53211#Kolme-ystavysta-II
 gutenberg_issued: '2016-10-04'
 gutenberg_type: Text
 identifiers:
